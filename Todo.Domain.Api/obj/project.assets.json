@@ -75,6 +75,29 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Todo.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Todo.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Todo.Domain.dll": {}
+        }
+      },
+      "Todo.Domain.Infra/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Todo.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Todo.Domain.Infra.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Todo.Domain.Infra.dll": {}
+        }
       }
     }
   },
@@ -185,11 +208,23 @@
         "swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "Todo.Domain/1.0.0": {
+      "type": "project",
+      "path": "../todo.domain/Todo.Domain.csproj",
+      "msbuildProject": "../todo.domain/Todo.Domain.csproj"
+    },
+    "Todo.Domain.Infra/1.0.0": {
+      "type": "project",
+      "path": "../Todo.Domain.Infra/Todo.Domain.Infra.csproj",
+      "msbuildProject": "../Todo.Domain.Infra/Todo.Domain.Infra.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Swashbuckle.AspNetCore >= 5.6.3"
+      "Swashbuckle.AspNetCore >= 5.6.3",
+      "Todo.Domain >= 1.0.0",
+      "Todo.Domain.Infra >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -222,7 +257,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "Z:\\DEV\\BACK-END\\C#\\Balta IO\\Todo App API com ASP.NET Core, CQRS e EF Core\\TODO\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj": {
+              "projectPath": "Z:\\DEV\\BACK-END\\C#\\Balta IO\\Todo App API com ASP.NET Core, CQRS e EF Core\\TODO\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj"
+            },
+            "Z:\\DEV\\BACK-END\\C#\\Balta IO\\Todo App API com ASP.NET Core, CQRS e EF Core\\TODO\\todo.domain\\Todo.Domain.csproj": {
+              "projectPath": "Z:\\DEV\\BACK-END\\C#\\Balta IO\\Todo App API com ASP.NET Core, CQRS e EF Core\\TODO\\todo.domain\\Todo.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
