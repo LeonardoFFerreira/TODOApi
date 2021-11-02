@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6rr2tGrRu689u44QpAoVsB/e2JzRyMxVVfHK3DmDLkd6bNRQjoPSeu9M4R5ON4cIOSBmr4G1xb6zXms6Oh+MVA==",
+  "dgSpecHash": "oetaX4oVU6r+kVEHcJTNT0fu1egpDYLJJow/i6XEiP/V2BsCwBcMHTZmY+DcVc73qIInAeoA9Z4zS77l5wLgPw==",
   "success": true,
   "projectFilePath": "Z:\\DEV\\BACK-END\\C#\\Balta IO\\Todo App API com ASP.NET Core, CQRS e EF Core\\TODO\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Trader\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512",
     "C:\\Users\\Trader\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Trader\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Trader\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
