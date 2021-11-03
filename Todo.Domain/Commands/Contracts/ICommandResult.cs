@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Todo.Domain.Commands.Contracts
+﻿namespace Todo.Domain.Commands.Contracts
 {
-    interface ICommandResult
+    public interface ICommandResult
     {
     }
 }
