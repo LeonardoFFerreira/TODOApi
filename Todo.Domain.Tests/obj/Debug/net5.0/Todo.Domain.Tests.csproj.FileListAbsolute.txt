@@ -96,3 +96,6 @@ Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\T
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\obj\Debug\net5.0\ref\Todo.Domain.Tests.dll
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\obj\Debug\net5.0\Todo.Domain.Tests.pdb
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\obj\Debug\net5.0\Todo.Domain.Tests.genruntimeconfig.cache
+Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\bin\Debug\net5.0\Flunt.dll
+Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\bin\Debug\net5.0\Todo.Domain.dll
+Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\bin\Debug\net5.0\Todo.Domain.pdb
