@@ -5,7 +5,7 @@ using Todo.Domain.Commands.Contracts;
 
 namespace Todo.Domain.Commands
 {
-    class MarkTodoAsUndoneCommand : Notifiable, ICommand
+    public class MarkTodoAsUndoneCommand : Notifiable, ICommand
     {
         public MarkTodoAsUndoneCommand()
         {
