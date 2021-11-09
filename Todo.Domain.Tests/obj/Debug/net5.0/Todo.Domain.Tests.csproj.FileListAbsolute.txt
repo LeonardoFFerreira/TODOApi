@@ -9,6 +9,7 @@ Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\T
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\bin\Debug\net5.0\Todo.Domain.Tests.dll
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\bin\Debug\net5.0\ref\Todo.Domain.Tests.dll
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\bin\Debug\net5.0\Todo.Domain.Tests.pdb
+Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\bin\Debug\net5.0\Flunt.dll
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -86,6 +87,8 @@ Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\T
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\bin\Debug\net5.0\Todo.Domain.dll
+Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\bin\Debug\net5.0\Todo.Domain.pdb
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\obj\Debug\net5.0\Todo.Domain.Tests.csprojAssemblyReference.cache
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\obj\Debug\net5.0\Todo.Domain.Tests.GeneratedMSBuildEditorConfig.editorconfig
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\obj\Debug\net5.0\Todo.Domain.Tests.AssemblyInfoInputs.cache
@@ -96,6 +99,3 @@ Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\T
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\obj\Debug\net5.0\ref\Todo.Domain.Tests.dll
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\obj\Debug\net5.0\Todo.Domain.Tests.pdb
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\obj\Debug\net5.0\Todo.Domain.Tests.genruntimeconfig.cache
-Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\bin\Debug\net5.0\Flunt.dll
-Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\bin\Debug\net5.0\Todo.Domain.dll
-Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Tests\bin\Debug\net5.0\Todo.Domain.pdb

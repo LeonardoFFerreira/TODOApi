@@ -1646,7 +1646,7 @@
       },
       "Todo.Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "flunt": "1.0.4"
         },
