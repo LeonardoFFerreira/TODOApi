@@ -7,7 +7,7 @@ using Todo.Domain.Repositories;
 
 namespace Todo.Domain.Handlers
 {
-    public class TodoHandler : Notifiable, IHandler<CreateTodoCommand>
+    public class TodoHandler : Notifiable, IHandler<CreateTodoCommand>, IHandler<UpdateTodoCommand>
     {
         private readonly ITodoRepository _repository;
 
@@ -26,6 +26,23 @@ namespace Todo.Domain.Handlers
             TodoItem todo = new TodoItem(command.Title, command.Date, command.User);
 
             _repository.Create(todo);
+
+            return new GenericCommandResult(true, "Tarefa salva com sucesso", todo);
+        }
+
+        public ICommandResult Handle(UpdateTodoCommand command)
+        {
+            //Fail Fast Validation
+            command.Validate();
+            if (command.Invalid)
+                return new GenericCommandResult(false, "A tarefa possui campos inválidos", command.Notifications);
+
+            //Reidratação
+            TodoItem todo = _repository.GetByIdAndUser(command.Id, command.User);
+
+            todo.UpdateTitle(command.Title);
+
+            _repository.Update(todo);
 
             return new GenericCommandResult(true, "Tarefa salva com sucesso", todo);
         }
