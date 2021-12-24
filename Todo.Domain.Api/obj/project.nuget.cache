@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ESInZyWUuRylVhWitOkAQUA1YgyGmNupG8J50g4LZ3DP+sxiW8jPpX5NYDnPmV7ubQKOvkyK1HcfI1sJSO24ag==",
+  "dgSpecHash": "+BE1bjjQjDmgmX0ou7fPgjvZwSxNL65PPjpqEung6wg2+j2CTyklSM4VnIc/es+BudFHHk79aAIDAL41ukCviA==",
   "success": true,
   "projectFilePath": "Z:\\DEV\\BACK-END\\C#\\Balta IO\\Todo App API com ASP.NET Core, CQRS e EF Core\\TODO\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
   "expectedPackageFiles": [

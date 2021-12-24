@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jx6tpvc0ts9JdAUDLFuEfLilf8aZNu3qW7++QVl6nSjnBWG2S3UIC1Kbxm5f/+6ZNszrc8mSvn2SpFRThZxI8A==",
+  "dgSpecHash": "LczFw0ePkVcEWcDRtWeh9/IiE8uUdhoIivBqONLD6aBgBBFwDzgzC3VuohTIo4PGZM9XQJ7/h4DekObgZ0EEPA==",
   "success": true,
   "projectFilePath": "Z:\\DEV\\BACK-END\\C#\\Balta IO\\Todo App API com ASP.NET Core, CQRS e EF Core\\TODO\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj",
   "expectedPackageFiles": [
