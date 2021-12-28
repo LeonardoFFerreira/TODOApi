@@ -31,7 +31,7 @@ namespace Todo.Domain.Infra.Repositories
         }
         public IEnumerable<TodoItem> GetAll(string user)
         {
-            return _context.Todos.AsNoTracking() //Não cria obj em mem.
+            return _context.Todos.AsNoTracking() //Não cria obj em memo.
                                  .Where(TodoQueries.GetAll(user))
                                  .OrderBy(todos => todos.Date);
         }

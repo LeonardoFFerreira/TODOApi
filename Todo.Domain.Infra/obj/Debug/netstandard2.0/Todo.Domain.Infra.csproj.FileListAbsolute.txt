@@ -1,12 +1,12 @@
+Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.AssemblyInfoInputs.cache
+Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.AssemblyInfo.cs
+Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.csproj.CoreCompileInputs.cache
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.deps.json
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.dll
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.pdb
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.dll
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.pdb
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.csprojAssemblyReference.cache
-Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.AssemblyInfoInputs.cache
-Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.AssemblyInfo.cs
-Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.csproj.CoreCompileInputs.cache
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.csproj.CopyComplete
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.dll
 Z:\DEV\BACK-END\C#\Balta IO\Todo App API com ASP.NET Core, CQRS e EF Core\TODO\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.pdb
